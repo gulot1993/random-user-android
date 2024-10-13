@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">random-user-android</string>
+    <string name="age">age: %s</string>
+    <string name="dob">date of birth: %s</string>
+    <string name="get_users"> Get user</string>
+    <string name="showing_results">Showing results: </string>
+</resources>
